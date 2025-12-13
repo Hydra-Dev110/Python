@@ -1,0 +1,3 @@
+DevOps involves collaboration
+Automation improves efficiency
+Python is widely used in DevOps
