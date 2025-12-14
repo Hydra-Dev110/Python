@@ -49,10 +49,6 @@ def web_scraper():
         print("Failed to retrieve webpage")
 
 
-# -----------------------------
-# MAIN EXECUTION
-# -----------------------------
-
 if __name__ == "__main__":
     print("Running File Operations...")
     file_operations()
